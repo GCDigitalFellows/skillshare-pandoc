@@ -1,6 +1,7 @@
 # Skill Share: Pandoc
 
 Tahir H. Butt <tahir.butt@gmail.com>
+
 October 26, 2017
 
 This skill share covers:
