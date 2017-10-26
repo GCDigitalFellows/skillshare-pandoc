@@ -10,7 +10,7 @@ This skill share covers:
 1. [Installation](#installation) :nut_and_bolt: :hammer: 
 2. [Pandoc Markdown](#pandoc_markdown)
 3. [Citations](#citations)
-4. Bonus: Filters
+4. [Bonus: Filters](#bonus_filters)
 
 ## Motivation
 
