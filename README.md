@@ -20,6 +20,6 @@ for producing PDFs.
 
 - Install [Docker Community Edition
   (CE)](https://www.docker.com/community-edition#/download) for your OS
-- Upon restart, configure Docker to 
+- Upon restart, configure Docker to share folders
 - Run [pandoc](https://github.com/jagregory/pandoc-docker) Docker container to
   download image: `docker run jagregory/pandoc`
